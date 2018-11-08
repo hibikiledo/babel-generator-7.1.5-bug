@@ -1,0 +1,10 @@
+{
+  "env": {
+    "development": {
+      "retainLines": true,
+      "plugins": [
+        "@babel/plugin-proposal-object-rest-spread"
+      ]
+    }
+  }
+}
